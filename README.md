@@ -56,7 +56,6 @@
             <h3 style="color: #333;">📊 GitHub Stats:</h3>
             <img src="https://github-readme-stats.vercel.app/api?username=abypious&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=abypious&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%;" /><br/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abypious&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;" />
         </div>
         <div style="text-align: center; margin: 20px 0;">
             <h3 style="color: #333;">🔝 Top Contributed Repo</h3>
