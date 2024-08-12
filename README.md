@@ -17,7 +17,7 @@
         </p>
         <p style="text-align: center;">🌱 I’m currently learning Flutter and React</p>
         <p style="text-align: center;">🤝 I’m looking for help with Flutter projects</p>
-        <p style="text-align: center;">👨‍💻 All of my projects are available at <a href="https://aby-potfolio.vercel.app/" target="_blank" style="color: #1a73e8; text-decoration: none;">My Potfolio</a></p>
+        <p style="text-align: center;">👨‍💻 All of my projects are available at <a href="https://aby-portfolio.vercel.app/" target="_blank" style="color: #1a73e8; text-decoration: none;">My Portfolio</a></p>
         <p style="text-align: center;">📫 How to reach me: <a href="mailto:abypious3@gmail.com" style="color: #1a73e8; text-decoration: none;">abypious3@gmail.com</a><br/>
         <div style="text-align: center;"><br/>
             <h1 style="color: #333; text-align: center;">Connect with me : 
