@@ -12,7 +12,10 @@
         <h1 style="color: #333; text-align: center; margin-bottom: 0;">Hloo 👋,Aby Pious Here, Look out my <a href="https://abypious.vercel.app/" target="_blank" style="color: #1a73e8; text-decoration: none;">Portfolio</a></h1>
         </p>
             <a href="[https://linkedin.com/in/aby](https://www.linkedin.com/in/aby-pious-b431312b4/)">
-            <img src="https://readme-typing-svg.demolab.com?font=M+PLUS+1+Code&weight=200&size=34&duration=2500&pause=983&color=1BF778&center=true&vCenter=true&width=435&lines=. Android app devoloper.....;Web devoloper.....;Software devoloper.....;System hardware.....;Operating systems.....;Photoshop.....;etc.......;" alt="Heylo!" />
+            <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Flutter+Developer;Full+Stack+Developer;Firebase+Enthusiast;Building+Real+World+Projects" 
+        alt="Typing SVG" 
+        />
             </a>
         </p>
         <p style="text-align: center;">🌱 I’m currently learning Flutter and React</p>
