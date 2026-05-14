@@ -57,17 +57,15 @@
         </div>
         <div style="text-align: center; margin: 20px 0;">
             <h3 style="color: #333;">📊 GitHub Stats:</h3>
-            <img src="https://github-readme-stats.vercel.app/api?username=abypious&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=abypious&theme=dark&hide_border=false" alt="GitHub Streak" style="max-width: 100%;" /><br/>
-        </div>
-        <div style="text-align: center; margin: 20px 0;">
+              <img height="180em" src="https://streak-stats.demolab.com?user=abypious&theme=tokyonight&hide_border=true"/><br/>
+           </div><br/>
+        <!-- <div style="text-align: center; margin: 20px 0;">
             <h3 style="color: #333;">🔝 Top Contributed Repo</h3>
             <img src="https://github-contributor-stats.vercel.app/api?username=abypious&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="max-width: 100%;" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnormaldil&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"><br/>
-        </div>
-    </div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abypious&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"><br/>
+        </div> -->
     <div align="center" style="text-align: center; margin-top: 30px; padding: 10px; background: #333; color: #fff; border-radius: 0 0 8px 8px;">
-    <p style="font-size: 100px;">© 2024 Aby Pious Vinoy... All rights reserved</p>    
+    <p style="font-size: 20px;">© 2024 Aby Pious Vinoy... All rights reserved</p>    
     </div>
 </body>
 </html>
