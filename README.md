@@ -65,7 +65,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abypious&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"><br/>
         </div> -->
     <div align="center" style="text-align: center; margin-top: 30px; padding: 10px; background: #333; color: #fff; border-radius: 0 0 8px 8px;">
-    <p style="font-size: 20px;">© 2024 Aby Pious Vinoy... All rights reserved</p>    
+    <p style="font-size: 20px;">© 2026 Aby Pious Vinoy... All rights reserved</p>    
     </div>
 </body>
 </html>
